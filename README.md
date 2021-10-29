@@ -1,4 +1,4 @@
-- 👋 Hey I'm Charlie Hepworth, an aspiring computer scientist.
+- 👋 Hey I'm Charlie, an aspiring computer scientist.
 
 - 👀 I'm interested in unique code applications and security conscious software.
 
