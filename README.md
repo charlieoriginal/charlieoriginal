@@ -6,4 +6,4 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlieoriginal&layout=compact&theme=radical)](https://github.com/charlieoriginal/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlieoriginal&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlieoriginal&theme=monokai)
